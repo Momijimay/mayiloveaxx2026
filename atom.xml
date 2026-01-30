@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mayiloveaxx2026.pages.dev/</id>
     <title>我们的卫星🛰️</title>
-    <updated>2026-01-30T07:02:58.071Z</updated>
+    <updated>2026-01-30T08:51:50.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mayiloveaxx2026.pages.dev/"/>
     <link rel="self" href="https://mayiloveaxx2026.pages.dev/atom.xml"/>
@@ -10,6 +10,36 @@
     <logo>https://mayiloveaxx2026.pages.dev/images/avatar.png</logo>
     <icon>https://mayiloveaxx2026.pages.dev/favicon.ico</icon>
     <rights>All rights reserved 2026, 我们的卫星🛰️</rights>
+    <entry>
+        <title type="html"><![CDATA[2月预算🧾]]></title>
+        <id>https://mayiloveaxx2026.pages.dev/post/2-yue-yu-suan/</id>
+        <link href="https://mayiloveaxx2026.pages.dev/post/2-yue-yu-suan/">
+        </link>
+        <updated>2026-01-30T08:49:43.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="1月收支结余">1月收支&amp;结余</h1>
+<p><strong>实际结余</strong>：1053.79（已放入小荷包）</p>
+<h1 id="2月预算">2月预算</h1>
+<h2 id="预估2月底收入">预估2月底收入</h2>
+<p>（目前仅统计1.15-1.30半个月数据）</p>
+<ul>
+<li>加班费：1222</li>
+<li>固定工资：6000<br>
+<strong>收入合计</strong>：7222</li>
+</ul>
+<h2 id="固定支出扣除">固定支出&amp;扣除</h2>
+<ul>
+<li>五险一金：1402</li>
+<li>房租：1200</li>
+<li>给家里：1000</li>
+</ul>
+<h2 id="储蓄计划">储蓄计划</h2>
+<ul>
+<li>小荷包目标：2000</li>
+</ul>
+<h2 id="实际可支配">实际可支配</h2>
+<p><strong>1620</strong></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[初用Markdown与碎碎念 ]]></title>
         <id>https://mayiloveaxx2026.pages.dev/post/chu-yong-markdown-yu-sui-sui-nian-axx/</id>
